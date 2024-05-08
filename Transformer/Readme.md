@@ -1,0 +1,3 @@
+最开始是在Laravel 5.8的版本中使用到Transformer插件，是用来转换模型数据的。后来新项目用到了Laravel 10，可能是兼容问题导致无法继续使用Transformer，于是就模仿着实现了类似的功能。
+
+注意：只能在Laravel中使用。
